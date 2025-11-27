@@ -1,0 +1,5 @@
+{
+  "name": "QuantArchitect.ai",
+  "description": "A high-frequency quantitative trading dashboard powered by Gemini 2.5. Features real-time market regime detection, multi-model ensemble predictions, and institutional-grade signal analysis.",
+  "requestFramePermissions": []
+}
